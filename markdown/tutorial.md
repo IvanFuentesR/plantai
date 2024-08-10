@@ -20,7 +20,7 @@
 
 ## Introduction
 
-In this blog post, we'll be building a basic AI model for identifying different plant species. This tutorial assumes that you have coding experience and are comfortable with programming concepts but may not be familiar with AI.
+In this post, we'll be building a basic AI model for identifying different plant species. This tutorial assumes that you have coding experience and are comfortable with programming concepts but may not be familiar with AI.
 
 We will use the following tools and libraries:
 
