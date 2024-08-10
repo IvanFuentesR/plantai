@@ -27,7 +27,7 @@ We will use the following tools and libraries:
 - FastAI library
 - Python with flask for a web server
 
-For a deeper understanding of AI concepts, you can follow the course [the course from this tutorial is based](https://course.fast.ai/)
+For a deeper understanding of AI concepts, you can follow [the course from this tutorial is based](https://course.fast.ai/)
 
 Let's dive in and create a model capable of identifying various plant species, including:
 
